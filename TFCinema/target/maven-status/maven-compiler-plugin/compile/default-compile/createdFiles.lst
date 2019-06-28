@@ -1,0 +1,16 @@
+Datos\DatosEspectadores.class
+Datos\DatosReservas.class
+Entidades\Espectador.class
+Datos\BibliotecaDB.class
+Datos\DatosHorarios.class
+Entidades\Pelicula.class
+Datos\DatosFunciones.class
+Entidades\StringMD.class
+Entidades\Funcion.class
+Entidades\Reserva.class
+Datos\DatosButacas.class
+Entidades\Horario.class
+Entidades\Sala.class
+Entidades\Butaca.class
+Datos\DatosPeliculas.class
+Datos\DatosSalas.class
